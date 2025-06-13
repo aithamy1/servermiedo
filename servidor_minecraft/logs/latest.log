@@ -125,3 +125,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 21:39:29.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Monster Hunter]
 [13Jun2025 21:40:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Stone Age]
 [13Jun2025 21:41:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee was slain by Spider
+[13Jun2025 21:42:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was slain by Man From The Fog
+[13Jun2025 21:43:22.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[13Jun2025 21:46:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Gravedigger]
+[13Jun2025 21:46:59.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee was slain by Goat Man
+[13Jun2025 21:47:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Creative Mode]
+[13Jun2025 21:49:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Hot Stuff]
+[13Jun2025 21:51:06.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set the time to 1000]
