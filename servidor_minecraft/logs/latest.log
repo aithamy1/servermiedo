@@ -239,3 +239,17 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 	... 9 more
 [13Jun2025 16:46:05.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ICCCeee lost connection: Internal server error
 [13Jun2025 16:46:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee left the game
+[13Jun2025 16:46:12.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: neroo024 lost connection: Disconnected
+[13Jun2025 16:46:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 left the game
+[13Jun2025 16:46:12.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ICCCeee[/127.47.221.64:35223] logged in with entity id 7197 at (459.83432699665843, 80.0, 540.0121196180398)
+[13Jun2025 16:46:12.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee joined the game
+[13Jun2025 16:46:12.316] [Server thread/INFO] [Jade/]: Syncing config to ICCCeee (2c4b5a4a-1030-3cc6-bbf6-cc08ce9b3f24)
+[13Jun2025 16:46:38.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: neroo024[/127.13.28.76:60781] logged in with entity id 7464 at (506.77393052140616, 64.0, 592.8021330075384)
+[13Jun2025 16:46:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 joined the game
+[13Jun2025 16:46:38.202] [Server thread/INFO] [Jade/]: Syncing config to neroo024 (c024ae1d-d49f-3716-ac45-aebdf81903dd)
+[13Jun2025 16:46:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was shot by Necromancer
+[13Jun2025 16:47:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[13Jun2025 16:50:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
+[13Jun2025 16:52:51.992] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=468, y=64, z=538}
+[13Jun2025 16:54:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was slain by Man From The Fog
+[13Jun2025 16:55:30.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Getting an Upgrade]
