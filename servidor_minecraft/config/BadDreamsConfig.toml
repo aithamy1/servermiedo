@@ -1,0 +1,28 @@
+
+[DreamChances]
+	#Chance of having a nightmare or dream.
+	dreamChance = 25.0
+
+[Other]
+	#The maximum light level that nightmares can occur.
+	NightmareLightLevel = 5.0
+	#The minimum light level that good dreams can occur.
+	GoodDreamLightLevel = 8.0
+	#If true, there will be a sleep cooldown after having nightmare.
+	sleepcooldown = true
+	#The cooldown for sleeping after a nightmare. (in seconds)
+	SleepCoolDownAfterNightmare = 10.0
+	#If true, it will be possible to have dangerous nightmares.
+	AllowDangerousNightmares = true
+	#The maxmimum number of mobs that can spawn from a dangerous nightmare.
+	DangerousNightmareMaxMobs = 2.0
+	#If true, it will be possible to have good dreams.
+	AllowGoodDreams = true
+
+[GoodDreamRewards]
+	PossibleReward1 = "minecraft:cookie"
+	PossibleReward2 = "minecraft:emerald"
+	PossibleReward3 = "minecraft:golden_carrot"
+	PossibleReward4 = "minecraft:cake"
+	PossibleReward5 = "minecraft:pumpkin_pie"
+
