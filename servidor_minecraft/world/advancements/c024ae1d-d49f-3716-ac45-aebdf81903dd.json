@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "midnight_madness:face_the_fear": {
+    "criteria": {
+      "face_the_fear": "2025-06-13 17:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-13 17:01:14 +0000"

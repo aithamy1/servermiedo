@@ -20,6 +20,7 @@
       "minecraft:forest": "2025-06-13 16:41:06 +0000",
       "minecraft:windswept_forest": "2025-06-13 16:38:41 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:32:06 +0000",
+      "minecraft:flower_forest": "2025-06-13 17:06:27 +0000",
       "minecraft:plains": "2025-06-13 16:42:52 +0000"
     },
     "done": false
@@ -420,6 +421,7 @@
     "criteria": {
       "chicken": "2025-06-13 16:38:59 +0000",
       "porkchop": "2025-06-13 16:41:41 +0000",
+      "apple": "2025-06-13 17:12:51 +0000",
       "mutton": "2025-06-13 16:32:10 +0000"
     },
     "done": false
@@ -805,6 +807,126 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-13 16:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-13 17:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "midnight_madness:face_the_fear": {
+    "criteria": {
+      "face_the_fear": "2025-06-13 17:05:23 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:recipes/decorations/cursed_head": {
+    "criteria": {
+      "has_item": "2025-06-13 17:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-06-13 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-13 17:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-13 17:08:01 +0000"
     },
     "done": true
   },
