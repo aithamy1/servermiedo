@@ -1,59 +1,59 @@
-[13Jun2025 16:25:30.371] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[13Jun2025 16:25:30.374] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[13Jun2025 16:25:35.087] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Jun2025 16:25:35.200] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servermiedo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Jun2025 16:25:35.644] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 16:25:35.645] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 16:25:35.646] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 16:25:35.647] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Jun2025 16:25:36.020] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/servermiedo/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.3.jar
-[13Jun2025 16:25:36.020] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[13Jun2025 16:25:38.942] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Jun2025 16:25:39.127] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[13Jun2025 16:25:39.130] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.crypticmushroom.minecraft.registry.coremod.CrypticCoreMod]
-[13Jun2025 16:25:39.131] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.crypticmushroom.minecraft.midnight.coremod.MidnightCoreMod]
-[13Jun2025 16:25:39.139] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[13Jun2025 16:25:39.253] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Jun2025 16:25:39.469] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Jun2025 16:25:41.959] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13Jun2025 16:25:50.071] [modloading-worker-0/WARN] [ModdingLegacy/Lucent/]: [lucent] LUCENT IS A CLIENT SIDE MOD. IT DOES NOT NEED TO BE INSTALLED ON THE SERVER.
-[13Jun2025 16:25:50.165] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[13Jun2025 16:25:50.307] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[13Jun2025 16:25:50.432] [modloading-worker-0/INFO] [Midnight/]: Welcome back to The Midnight. Shall we resume the spread of the malaise?
-[13Jun2025 16:25:50.510] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Jun2025 16:25:50.511] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Jun2025 16:25:54.346] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[13Jun2025 16:25:54.547] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[13Jun2025 16:25:54.548] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[13Jun2025 16:25:54.548] [main/INFO] [terrablender/]: Registered region nyctophobia:biome_provider to index 1 for type OVERWORLD
-[13Jun2025 16:25:54.563] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[13Jun2025 16:25:54.565] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[13Jun2025 16:25:54.671] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[13Jun2025 16:25:54.740] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[13Jun2025 16:25:54.754] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[13Jun2025 16:25:54.758] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[13Jun2025 16:25:54.760] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.crypticmushroom.minecraft.midnight.common.compatibility.jade.MnWailaPlugin
-[13Jun2025 16:25:55.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[13Jun2025 16:25:55.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.13 Target: null
-[13Jun2025 16:25:55.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Starting version check at http://changelogs.moddinglegacy.com/lucent.json
-[13Jun2025 16:25:55.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Found status: BETA Current: 1.5.5 Target: null
-[13Jun2025 16:25:55.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[13Jun2025 16:25:55.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[13Jun2025 16:25:55.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [midnight] Starting version check at https://changelogs.moddinglegacy.com/midnight.json
-[13Jun2025 16:25:56.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [midnight] Found status: AHEAD Current: 0.6.7 Target: null
-[13Jun2025 16:25:56.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Jun2025 16:25:56.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[13Jun2025 16:25:58.099] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Jun2025 16:26:00.275] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servermiedo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
-[13Jun2025 16:26:00.276] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servermiedo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
-[13Jun2025 16:26:05.008] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/dark_wolf}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 16:26:05.008] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/soul_weaver}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 16:26:05.008] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/soulseeker}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 16:26:05.009] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/imitator}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 16:26:05.009] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/underworld_horror}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 16:26:05.009] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/soul_weaver}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Jun2025 16:26:05.108] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[13Jun2025 16:26:05.109] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[13Jun2025 16:58:56.399] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Jun2025 16:58:56.404] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[13Jun2025 16:58:57.430] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Jun2025 16:58:57.527] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servermiedo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Jun2025 16:58:57.873] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 16:58:57.877] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 16:58:57.879] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 16:58:57.882] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servermiedo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 16:58:58.163] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/servermiedo/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.3.jar
+[13Jun2025 16:58:58.164] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[13Jun2025 16:59:00.904] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Jun2025 16:59:01.038] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[13Jun2025 16:59:01.043] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.crypticmushroom.minecraft.registry.coremod.CrypticCoreMod]
+[13Jun2025 16:59:01.044] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.crypticmushroom.minecraft.midnight.coremod.MidnightCoreMod]
+[13Jun2025 16:59:01.054] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Jun2025 16:59:01.096] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jun2025 16:59:01.205] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jun2025 16:59:03.397] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13Jun2025 16:59:13.014] [modloading-worker-0/WARN] [ModdingLegacy/Lucent/]: [lucent] LUCENT IS A CLIENT SIDE MOD. IT DOES NOT NEED TO BE INSTALLED ON THE SERVER.
+[13Jun2025 16:59:13.061] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[13Jun2025 16:59:13.203] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[13Jun2025 16:59:13.310] [modloading-worker-0/INFO] [Midnight/]: Welcome back to The Midnight. Shall we resume the spread of the malaise?
+[13Jun2025 16:59:13.369] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Jun2025 16:59:13.370] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Jun2025 16:59:17.753] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[13Jun2025 16:59:17.892] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13Jun2025 16:59:17.893] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13Jun2025 16:59:17.893] [main/INFO] [terrablender/]: Registered region nyctophobia:biome_provider to index 1 for type OVERWORLD
+[13Jun2025 16:59:17.907] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Jun2025 16:59:17.908] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Jun2025 16:59:17.975] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13Jun2025 16:59:18.006] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13Jun2025 16:59:18.012] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13Jun2025 16:59:18.015] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[13Jun2025 16:59:18.017] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.crypticmushroom.minecraft.midnight.common.compatibility.jade.MnWailaPlugin
+[13Jun2025 16:59:18.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[13Jun2025 16:59:18.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.13 Target: null
+[13Jun2025 16:59:18.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Starting version check at http://changelogs.moddinglegacy.com/lucent.json
+[13Jun2025 16:59:19.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lucent] Found status: BETA Current: 1.5.5 Target: null
+[13Jun2025 16:59:19.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[13Jun2025 16:59:19.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[13Jun2025 16:59:19.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [midnight] Starting version check at https://changelogs.moddinglegacy.com/midnight.json
+[13Jun2025 16:59:19.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [midnight] Found status: AHEAD Current: 0.6.7 Target: null
+[13Jun2025 16:59:19.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jun2025 16:59:19.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[13Jun2025 16:59:21.621] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jun2025 16:59:24.047] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servermiedo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[13Jun2025 16:59:24.048] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servermiedo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[13Jun2025 16:59:28.356] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/dark_wolf}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jun2025 16:59:28.357] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/soul_weaver}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jun2025 16:59:28.357] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/soulseeker}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jun2025 16:59:28.358] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/imitator}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jun2025 16:59:28.358] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/underworld_horror}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jun2025 16:59:28.358] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:midnight_madness:entities/soul_weaver}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jun2025 16:59:28.451] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[13Jun2025 16:59:28.452] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -69,187 +69,68 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[13Jun2025 16:26:05.273] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2322 advancements
-[13Jun2025 16:26:07.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Jun2025 16:26:07.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Jun2025 16:26:07.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Jun2025 16:26:07.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Jun2025 16:26:08.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Jun2025 16:26:08.132] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Jun2025 16:26:08.240] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Jun2025 16:26:08.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Jun2025 16:26:08.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Jun2025 16:26:08.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Jun2025 16:26:08.280] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/midnight-server.toml is not correct. Correcting
-[13Jun2025 16:26:08.281] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key chanceMidnightLightningCreatesRift was corrected from 0.3 to its default, 0.3. 
-[13Jun2025 16:26:08.285] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
-[13Jun2025 16:26:08.290] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
-[13Jun2025 16:26:08.387] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[13Jun2025 16:26:08.909] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[13Jun2025 16:26:08.912] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[13Jun2025 16:26:08.913] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[13Jun2025 16:26:08.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Jun2025 16:26:23.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Jun2025 16:26:25.837] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:25.838] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:26.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:26.906] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:26.906] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:26.907] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:26.908] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:26.943] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:27.548] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:27.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:28.439] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Jun2025 16:26:28.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[13Jun2025 16:26:29.439] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[13Jun2025 16:26:29.941] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6503 ms
-[13Jun2025 16:26:29.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.673s)! For help, type "help"
-[13Jun2025 16:26:29.982] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Jun2025 16:27:23.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ICCCeee[/127.47.221.64:56873] logged in with entity id 190 at (89.8160759546974, 75.0, 12.254774696363075)
-[13Jun2025 16:27:23.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee joined the game
-[13Jun2025 16:27:23.995] [Server thread/INFO] [Jade/]: Syncing config to ICCCeee (2c4b5a4a-1030-3cc6-bbf6-cc08ce9b3f24)
-[13Jun2025 16:27:30.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: neroo024[/127.13.28.76:53673] logged in with entity id 215 at (92.5, 67.0, 18.5)
-[13Jun2025 16:27:30.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 joined the game
-[13Jun2025 16:27:30.628] [Server thread/INFO] [Jade/]: Syncing config to neroo024 (c024ae1d-d49f-3716-ac45-aebdf81903dd)
-[13Jun2025 16:27:33.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Survival Mode]
-[13Jun2025 16:27:39.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made neroo024 a server operator
-[13Jun2025 16:34:26.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set the time to 1000]
-[13Jun2025 16:34:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has reached the goal [Feeling Watched]
-[13Jun2025 16:35:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Jerky?]
-[13Jun2025 16:36:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Isn't It Iron Pick]
-[13Jun2025 16:36:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Stone Age]
-[13Jun2025 16:36:51.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Getting an Upgrade]
-[13Jun2025 16:44:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Sweet Dreams]
-[13Jun2025 16:46:05.806] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
-	Index: 22
-	Listeners:
-		0: NORMAL
-		1: ASM: class anomaly.procedures.AnomalyBaseOnInitialEntitySpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		2: ASM: class net.yourlocalgamedev.whisperingspirits.procedures.PlayerLookAtSpiritProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		3: ASM: class net.mcreator.midnightlurker.procedures.ScreenShakeProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		4: ASM: class net.mcreator.midnightlurker.procedures.LurkerfaceparticleprocedureProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		5: ASM: class net.mcreator.midnightlurker.procedures.JumpscareTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		6: ASM: class net.mcreator.midnightlurker.procedures.Insanitystage7Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		7: ASM: class net.mcreator.midnightlurker.procedures.InsanityoverlayrendersProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		8: ASM: class net.mcreator.midnightlurker.procedures.InsanityStageTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		9: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		10: ASM: class net.mcreator.midnightlurker.procedures.EncounterProcProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		11: ASM: class net.mcreator.midnightlurker.procedures.DeathJumpTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		12: ASM: class net.mcreator.midnightlurker.procedures.AmnesiaStageAddProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		13: ASM: class net.mcreator.midnightlurker.procedures.AggroPotionAddTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		14: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		15: ASM: class net.mcreator.man.procedures.TimerglobalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		16: ASM: class net.mcreator.man.procedures.NosleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		17: ASM: class net.mcreator.man.procedures.LookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		18: ASM: class net.mcreator.man.procedures.JumpscareoverlayingameProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		19: ASM: xaero.common.events.CommonEventsForge@423cfb0d handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		20: ASM: class net.mcreator.man.procedures.EntchantmentTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		21: ASM: com.lgow.endofherobrine.event.WrathHandler@2088a92b wrathAdvancement(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		22: ASM: class net.mcreator.theknocker.procedures.RandomspawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		23: ASM: class net.mcreator.theknocker.procedures.PlayertickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		24: ASM: class net.mcreator.theknocker.procedures.NightCounterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		25: ASM: class net.mcreator.theknocker.procedures.CansleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		26: ASM: class net.mcreator.midnightmadness.procedures.WraithKingPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		27: ASM: class net.mcreator.midnightmadness.procedures.WelcomingMSGCDProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		28: ASM: class net.mcreator.midnightmadness.procedures.TheSecretOfTheNecromancersPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		29: ASM: class net.mcreator.midnightmadness.procedures.TheOneTrueKingPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		30: ASM: class net.mcreator.midnightmadness.procedures.SoulStringRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		31: ASM: class net.mcreator.midnightmadness.procedures.SoulCollectorPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		32: ASM: class net.mcreator.midnightmadness.procedures.SoulCagesRecipeUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		33: ASM: class net.mcreator.midnightmadness.procedures.SetSoulDropChanceProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		34: ASM: class net.mcreator.midnightmadness.procedures.RottenOakPlanksRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		35: ASM: class net.mcreator.midnightmadness.procedures.ReinforcementsPage3ItemsProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		36: ASM: class net.mcreator.midnightmadness.procedures.ReinforcementsPage2ItemsProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		37: ASM: class net.mcreator.midnightmadness.procedures.ReinforcementsPage1ItemsProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		38: ASM: class net.mcreator.midnightmadness.procedures.PlayerHearVoicesInHorrorValleyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		39: ASM: class net.mcreator.midnightmadness.procedures.OtherRitualsPage3ItemsProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		40: ASM: class net.mcreator.midnightmadness.procedures.OtherRitualsPage2ItemsProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		41: ASM: class net.mcreator.midnightmadness.procedures.OtherRitualsPage1ItemsProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		42: ASM: class net.mcreator.midnightmadness.procedures.NoKingRulesForeverPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		43: ASM: class net.mcreator.midnightmadness.procedures.InfernalStoneRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		44: ASM: class net.mcreator.midnightmadness.procedures.InfernalStoneBricksRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		45: ASM: class net.mcreator.midnightmadness.procedures.InfernalCobblestoneRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		46: ASM: class net.mcreator.midnightmadness.procedures.HorrorClotRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		47: ASM: class net.mcreator.midnightmadness.procedures.GetBraverPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		48: ASM: class net.mcreator.midnightmadness.procedures.FullMoonHunterPRCDR2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		49: ASM: class net.mcreator.midnightmadness.procedures.FaceTheFearPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		50: ASM: class net.mcreator.midnightmadness.procedures.EternalDevourerPassiveProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		51: ASM: class net.mcreator.midnightmadness.procedures.DreamcatcherSpawnedVariableChangerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		52: ASM: class net.mcreator.midnightmadness.procedures.DemoniumRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		53: ASM: class net.mcreator.midnightmadness.procedures.DemonicOresRecipeUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		54: ASM: class net.mcreator.midnightmadness.procedures.DemonicBlockRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		55: ASM: class net.mcreator.midnightmadness.procedures.DemonSlayerPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		56: ASM: class net.mcreator.midnightmadness.procedures.DemonOfKnowledgePRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		57: ASM: class net.mcreator.midnightmadness.procedures.DarkWolfSkinRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		58: ASM: class net.mcreator.midnightmadness.procedures.DarkSoulRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		59: ASM: class net.mcreator.midnightmadness.procedures.DarkEssenceRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		60: ASM: class net.mcreator.midnightmadness.procedures.DarkEssenceParticleRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		61: ASM: class net.mcreator.midnightmadness.procedures.CursedPlanksRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		62: ASM: class net.mcreator.midnightmadness.procedures.CursedLogRecipesUnlockProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		63: ASM: class net.mcreator.midnightmadness.procedures.AwakenedDarkCrownCurseProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		64: ASM: class net.mcreator.midnightmadness.procedures.Advancement0Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		65: ASM: class net.mcreator.midnightmadness.procedures.ABadNecromancerPRCDRProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:74)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-	at java.base/java.lang.Thread.run(Thread.java:840)
-
-[13Jun2025 16:46:05.828] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.47.221.64:56873
-net.minecraft.ReportedException: Ticking player
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
-	at net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68) ~[the_knocker-1.4.0-forge-1.20.1.jar%23166!/:?]
-	at net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23) ~[the_knocker-1.4.0-forge-1.20.1.jar%23166!/:?]
-	at net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:74) ~[the_knocker-1.4.0-forge-1.20.1.jar%23166!/:?]
-	at net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32) ~[the_knocker-1.4.0-forge-1.20.1.jar%23166!/:?]
-	at net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[the_knocker-1.4.0-forge-1.20.1.jar%23166!/:?]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
-	... 9 more
-[13Jun2025 16:46:05.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ICCCeee lost connection: Internal server error
-[13Jun2025 16:46:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee left the game
-[13Jun2025 16:46:12.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: neroo024 lost connection: Disconnected
-[13Jun2025 16:46:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 left the game
-[13Jun2025 16:46:12.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ICCCeee[/127.47.221.64:35223] logged in with entity id 7197 at (459.83432699665843, 80.0, 540.0121196180398)
-[13Jun2025 16:46:12.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee joined the game
-[13Jun2025 16:46:12.316] [Server thread/INFO] [Jade/]: Syncing config to ICCCeee (2c4b5a4a-1030-3cc6-bbf6-cc08ce9b3f24)
-[13Jun2025 16:46:38.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: neroo024[/127.13.28.76:60781] logged in with entity id 7464 at (506.77393052140616, 64.0, 592.8021330075384)
-[13Jun2025 16:46:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 joined the game
-[13Jun2025 16:46:38.202] [Server thread/INFO] [Jade/]: Syncing config to neroo024 (c024ae1d-d49f-3716-ac45-aebdf81903dd)
-[13Jun2025 16:46:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was shot by Necromancer
-[13Jun2025 16:47:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
-[13Jun2025 16:50:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
-[13Jun2025 16:52:51.992] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=468, y=64, z=538}
-[13Jun2025 16:54:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was slain by Man From The Fog
-[13Jun2025 16:55:30.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Getting an Upgrade]
+[13Jun2025 16:59:28.637] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2322 advancements
+[13Jun2025 16:59:31.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Jun2025 16:59:31.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jun2025 16:59:31.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jun2025 16:59:31.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jun2025 16:59:31.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jun2025 16:59:31.831] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Jun2025 16:59:31.959] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Jun2025 16:59:31.960] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Jun2025 16:59:31.963] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Jun2025 16:59:31.963] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Jun2025 16:59:32.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/midnight-server.toml is not correct. Correcting
+[13Jun2025 16:59:32.007] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key chanceMidnightLightningCreatesRift was corrected from 0.3 to its default, 0.3. 
+[13Jun2025 16:59:32.008] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[13Jun2025 16:59:32.151] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[13Jun2025 16:59:32.730] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[13Jun2025 16:59:32.736] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[13Jun2025 16:59:32.737] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[13Jun2025 16:59:32.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jun2025 16:59:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jun2025 16:59:52.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.113] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.114] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.115] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.117] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.118] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.119] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.123] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.124] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.125] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.126] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.126] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.127] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.128] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.133] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.136] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.138] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.138] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.304] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 16:59:52.804] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[13Jun2025 16:59:53.304] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[13Jun2025 16:59:53.517] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12214 ms
+[13Jun2025 16:59:53.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.534s)! For help, type "help"
+[13Jun2025 16:59:53.558] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jun2025 17:00:07.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ICCCeee[/127.47.221.64:49267] logged in with entity id 94 at (456.0384697784455, 66.0, 566.5343122219031)
+[13Jun2025 17:00:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee joined the game
+[13Jun2025 17:00:07.685] [Server thread/INFO] [Jade/]: Syncing config to ICCCeee (2c4b5a4a-1030-3cc6-bbf6-cc08ce9b3f24)
+[13Jun2025 17:00:10.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[13Jun2025 17:00:27.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: neroo024[/127.13.28.76:37621] logged in with entity id 295 at (460.1633153948667, 67.7531999805212, 536.3828511642823)
+[13Jun2025 17:00:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 joined the game
+[13Jun2025 17:00:27.768] [Server thread/INFO] [Jade/]: Syncing config to neroo024 (c024ae1d-d49f-3716-ac45-aebdf81903dd)
+[13Jun2025 17:00:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee fell from a high place
+[13Jun2025 17:01:14.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Sweet Dreams]
+[13Jun2025 17:05:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Face the Fear]
+[13Jun2025 17:05:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Face the Fear]
+[13Jun2025 17:05:28.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee was slain by Soulseeker
+[13Jun2025 17:05:36.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was slain by Soulseeker
+[13Jun2025 17:05:43.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee was slain by Soulseeker
+[13Jun2025 17:06:04.369] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=499, y=62, z=539}
+[13Jun2025 17:06:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 was slain by Soulseeker
+[13Jun2025 17:07:19.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee was slain by Soulseeker

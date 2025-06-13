@@ -404,6 +404,7 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
+      "endofherobrine:chicken": "2025-06-13 16:55:04 +0000",
       "endofherobrine:sheep": "2025-06-13 16:31:16 +0000",
       "endofherobrine:pigman": "2025-06-13 16:35:20 +0000"
     },
@@ -798,6 +799,12 @@
   "the_knocker:cant_sleep": {
     "criteria": {
       "cant_sleep_0": "2025-06-13 16:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-13 16:53:37 +0000"
     },
     "done": true
   },
