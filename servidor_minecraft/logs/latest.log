@@ -119,3 +119,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 21:23:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 joined the game
 [13Jun2025 21:23:13.286] [Server thread/INFO] [Jade/]: Syncing config to neroo024 (c024ae1d-d49f-3716-ac45-aebdf81903dd)
 [13Jun2025 21:30:46.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Jun2025 21:37:19.909] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=689, y=103, z=708}
+[13Jun2025 21:39:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Jerky?]
+[13Jun2025 21:39:25.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Monster Hunter]
+[13Jun2025 21:39:29.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Monster Hunter]
+[13Jun2025 21:40:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Stone Age]
+[13Jun2025 21:41:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee was slain by Spider
