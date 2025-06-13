@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-13 21:48:25 +0000",
       "minecraft:sunflower_plains": "2025-06-13 16:43:35 +0000",
       "minecraft:cherry_grove": "2025-06-13 21:46:26 +0000",
       "minecraft:birch_forest": "2025-06-13 16:38:07 +0000",
@@ -21,9 +22,12 @@
       "minecraft:swamp": "2025-06-13 16:29:11 +0000",
       "minecraft:forest": "2025-06-13 16:41:00 +0000",
       "minecraft:windswept_forest": "2025-06-13 16:38:40 +0000",
+      "minecraft:jungle": "2025-06-13 22:12:34 +0000",
+      "minecraft:ocean": "2025-06-13 21:58:54 +0000",
       "minecraft:windswept_savanna": "2025-06-13 16:27:31 +0000",
       "minecraft:flower_forest": "2025-06-13 17:18:47 +0000",
       "minecraft:meadow": "2025-06-13 21:26:45 +0000",
+      "minecraft:savanna": "2025-06-13 22:12:00 +0000",
       "minecraft:plains": "2025-06-13 16:42:47 +0000"
     },
     "done": false
@@ -631,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-13 21:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-13 21:40:58 +0000"
@@ -691,6 +701,18 @@
     },
     "done": true
   },
+  "midnight:adventure/visit_every_biome": {
+    "criteria": {
+      "entered_towering_vigilant_forest": "2025-06-13 21:57:14 +0000",
+      "entered_dark_ocean": "2025-06-13 21:54:21 +0000",
+      "entered_dead_forest": "2025-06-13 21:53:52 +0000",
+      "entered_night_plains": "2025-06-13 21:55:23 +0000",
+      "entered_vigilant_glade": "2025-06-13 21:56:29 +0000",
+      "entered_vigilant_forest": "2025-06-13 21:55:37 +0000",
+      "entered_obscured_peaks": "2025-06-13 21:54:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-13 21:40:12 +0000"
@@ -727,9 +749,21 @@
     },
     "done": true
   },
+  "midnight:story/enter_midnight": {
+    "criteria": {
+      "entered_the_midnight": "2025-06-13 21:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-13 21:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-13 21:52:50 +0000"
     },
     "done": true
   },

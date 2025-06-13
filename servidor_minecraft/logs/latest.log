@@ -132,3 +132,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 21:47:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Creative Mode]
 [13Jun2025 21:49:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Hot Stuff]
 [13Jun2025 21:51:06.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set the time to 1000]
+[13Jun2025 21:53:32.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set the time to 1000]
+[13Jun2025 21:53:49.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Lights Out]
+[13Jun2025 21:53:52.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: neroo024 moved too quickly! 0.0,-10.806526110008996,0.0
+[13Jun2025 21:53:52.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[13Jun2025 21:53:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Lights Out]
+[13Jun2025 21:54:17.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[13Jun2025 21:58:45.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6174ms or 123 ticks behind
+[13Jun2025 21:58:54.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ICCCeee moved too quickly! 0.0,-10.806526110008988,0.0
+[13Jun2025 21:58:55.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ICCCeee moved too quickly! 0.0,-10.130488618303822,0.0
+[13Jun2025 21:58:55.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: neroo024 moved too quickly! 6.84255736090563,7.125000233389557,-2.5037546493505793
+[13Jun2025 21:59:14.007] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-812, y=70, z=-41}
+[13Jun2025 22:00:18.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/14109, l='ServerLevel[world]', x=-823.95, y=72.05, z=-19.30] died, message: 'Cartographer was slain by Zombie'
+[13Jun2025 22:01:34.601] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jun2025 22:01:34.615] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jun2025 22:01:34.615] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jun2025 22:01:34.617] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jun2025 22:01:34.617] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jun2025 22:01:34.727] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jun2025 22:01:34.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jun2025 22:01:34.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jun2025 22:01:34.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jun2025 22:01:34.784] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jun2025 22:01:34.785] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jun2025 22:01:34.785] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jun2025 22:01:34.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jun2025 22:01:34.795] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jun2025 22:01:34.796] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jun2025 22:01:34.797] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jun2025 22:01:34.798] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jun2025 22:01:34.841] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jun2025 22:01:34.842] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jun2025 22:01:34.842] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jun2025 22:01:34.843] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jun2025 22:01:47.829] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jun2025 22:01:47.830] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jun2025 22:01:47.830] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jun2025 22:02:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has completed the challenge [It Spreads]
+[13Jun2025 22:03:09.418] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[13Jun2025 22:03:09.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[13Jun2025 22:03:09.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[13Jun2025 22:03:09.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[13Jun2025 22:03:11.851] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[13Jun2025 22:03:11.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[13Jun2025 22:03:11.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[13Jun2025 22:03:11.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[13Jun2025 22:03:12.733] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[13Jun2025 22:03:12.733] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[13Jun2025 22:03:12.734] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[13Jun2025 22:03:12.734] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[13Jun2025 22:04:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [No King Rules Forever]
+[13Jun2025 22:04:25.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Full Moon Essence]
+[13Jun2025 22:06:41.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: neroo024 moved too quickly! 8.62781203300733,0.0,-5.566763775776032
+[13Jun2025 22:06:41.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ICCCeee moved too quickly! 8.208459002188647,0.0,-5.981679960612809
+[13Jun2025 22:08:35.357] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-966, y=65, z=-72}
+[13Jun2025 22:12:06.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: neroo024 moved too quickly! -8.39362348409395,-3.374943582345921,4.8991873124791425
+[13Jun2025 22:12:06.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ICCCeee moved too quickly! -9.1366241025205,1.3030399468558755,4.816591815031018
+[13Jun2025 22:12:50.983] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1936, y=11, z=55}
+[13Jun2025 22:17:06.844] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2155, y=110, z=-284}
+[13Jun2025 22:17:41.045] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2154, y=110, z=-284}
+[13Jun2025 22:17:47.645] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2161, y=111, z=-282}
+[13Jun2025 22:18:56.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Source of Evil]
+[13Jun2025 22:19:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Pseudo Archaeologist]

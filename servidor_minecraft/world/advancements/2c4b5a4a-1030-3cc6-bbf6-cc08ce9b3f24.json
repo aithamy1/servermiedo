@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-13 21:48:23 +0000",
       "minecraft:sunflower_plains": "2025-06-13 16:43:14 +0000",
       "minecraft:cherry_grove": "2025-06-13 21:46:25 +0000",
       "minecraft:birch_forest": "2025-06-13 16:38:07 +0000",
@@ -20,9 +21,12 @@
       "minecraft:swamp": "2025-06-13 16:29:13 +0000",
       "minecraft:forest": "2025-06-13 16:41:06 +0000",
       "minecraft:windswept_forest": "2025-06-13 16:38:41 +0000",
+      "minecraft:jungle": "2025-06-13 22:12:39 +0000",
+      "minecraft:ocean": "2025-06-13 21:58:54 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:32:06 +0000",
       "minecraft:flower_forest": "2025-06-13 17:06:27 +0000",
       "minecraft:meadow": "2025-06-13 21:26:57 +0000",
+      "minecraft:savanna": "2025-06-13 22:12:02 +0000",
       "minecraft:plains": "2025-06-13 16:42:52 +0000"
     },
     "done": false
@@ -408,6 +412,7 @@
   "endofherobrine:story/exorcist": {
     "criteria": {
       "endofherobrine:chicken": "2025-06-13 16:55:04 +0000",
+      "endofherobrine:skeleton": "2025-06-13 22:16:23 +0000",
       "endofherobrine:sheep": "2025-06-13 16:31:16 +0000",
       "endofherobrine:pigman": "2025-06-13 16:35:20 +0000"
     },
@@ -934,6 +939,18 @@
     },
     "done": true
   },
+  "midnight_madness:full_moon_essence": {
+    "criteria": {
+      "full_moon_essence": "2025-06-13 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-06-13 22:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-13 21:40:05 +0000"
@@ -946,6 +963,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-06-13 22:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-13 21:46:43 +0000"
@@ -955,6 +978,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-13 21:43:02 +0000",
+      "minecraft:creeper": "2025-06-13 22:02:48 +0000",
       "minecraft:zombie": "2025-06-13 21:39:25 +0000",
       "minecraft:drowned": "2025-06-13 21:45:23 +0000"
     },
@@ -966,6 +990,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-13 22:06:17 +0000"
+    },
+    "done": true
+  },
+  "midnight:adventure/visit_every_biome": {
+    "criteria": {
+      "entered_towering_vigilant_forest": "2025-06-13 21:57:13 +0000",
+      "entered_dark_ocean": "2025-06-13 21:54:22 +0000",
+      "entered_dead_forest": "2025-06-13 21:53:53 +0000",
+      "entered_night_plains": "2025-06-13 21:55:23 +0000",
+      "entered_vigilant_glade": "2025-06-13 21:56:29 +0000",
+      "entered_vigilant_forest": "2025-06-13 21:55:34 +0000",
+      "entered_obscured_peaks": "2025-06-13 21:54:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-13 21:39:04 +0000"
@@ -975,6 +1017,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-13 21:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-13 21:49:31 +0000"
     },
     "done": true
   },
@@ -996,15 +1044,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-13 22:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-13 21:44:34 +0000"
     },
     "done": true
   },
+  "midnight_madness:no_king_rules_forever": {
+    "criteria": {
+      "no_king_rules_forever": "2025-06-13 22:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-06-13 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 21:49:40 +0000"
+    },
+    "done": true
+  },
+  "midnight:story/enter_midnight": {
+    "criteria": {
+      "entered_the_midnight": "2025-06-13 21:53:53 +0000"
     },
     "done": true
   },
@@ -1023,6 +1095,18 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-06-13 21:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 22:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 22:02:49 +0000"
     },
     "done": true
   },
