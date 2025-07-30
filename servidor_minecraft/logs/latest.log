@@ -4289,3 +4289,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 16:24:29.258] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [neroo024]
 [30Jul2025 16:24:34.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
 [30Jul2025 16:24:50.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Teleported neroo024 to ICCCeee]
+[30Jul2025 16:25:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
+[30Jul2025 16:29:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has reached the goal [Kanoe]
+[30Jul2025 16:33:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[30Jul2025 16:34:41.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
+[30Jul2025 16:34:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 has made the advancement [Monster Hunter]

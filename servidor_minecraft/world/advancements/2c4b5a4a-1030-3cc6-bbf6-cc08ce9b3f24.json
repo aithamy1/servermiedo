@@ -592,5 +592,11 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kanoe": {
+    "criteria": {
+      "kanoe_0": "2025-07-30 16:29:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

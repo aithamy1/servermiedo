@@ -238,6 +238,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-30 16:23:52 +0000",
       "cooked_beef": "2025-07-30 16:16:09 +0000",
       "porkchop": "2025-07-30 16:01:37 +0000",
       "mutton": "2025-07-30 16:16:06 +0000"
@@ -355,6 +356,12 @@
   "kimetsunoyaiba:kanoe": {
     "criteria": {
       "kanoe_0": "2025-07-30 16:12:50 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:become_demon": {
+    "criteria": {
+      "become_demon_0": "2025-07-30 16:21:35 +0000"
     },
     "done": true
   },
