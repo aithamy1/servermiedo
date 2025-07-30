@@ -1,43 +1,64 @@
 {
-  "minecraft:recipes/decorations/ladder": {
+  "kimetsunoyaiba:demon_slayer": {
     "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
+      "demon_slayer_0": "2025-07-30 15:41:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_egg": "2025-07-30 16:01:06 +0000"
+      "unlock_right_away": "2025-07-30 15:41:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "parcool:grant_parcool_guide": {
     "criteria": {
-      "has_beef": "2025-07-30 16:00:28 +0000"
+      "tick": "2025-07-30 15:41:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "kimetsunoyaiba:cruel": {
     "criteria": {
-      "has_mutton": "2025-07-30 16:06:35 +0000"
+      "cruel_0": "2025-07-30 15:41:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_porkchop": "2025-07-30 16:00:31 +0000"
+      "minecraft:sunflower_plains": "2025-07-30 16:02:12 +0000",
+      "minecraft:forest": "2025-07-30 15:41:23 +0000",
+      "minecraft:savanna": "2025-07-30 15:47:08 +0000",
+      "minecraft:plains": "2025-07-30 15:45:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-30 15:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-30 15:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 15:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 15:55:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-30 15:55:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-30 16:04:31 +0000"
     },
     "done": true
   },
@@ -53,63 +74,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-07-30 16:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-30 15:55:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-07-30 16:01:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-30 15:55:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:demon_slayer": {
-    "criteria": {
-      "demon_slayer_0": "2025-07-30 15:41:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
     },
     "done": true
   },
@@ -125,57 +92,9 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:mizunoto": {
-    "criteria": {
-      "mizunoto_0": "2025-07-30 16:04:31 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:kanoto": {
-    "criteria": {
-      "kanoto_0": "2025-07-30 16:07:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-07-30 16:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-07-30 15:41:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-07-30 16:04:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-30 15:55:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-07-30 16:02:41 +0000"
     },
     "done": true
   },
@@ -185,138 +104,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-07-30 15:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-30 15:55:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-07-30 16:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-07-30 15:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-30 15:55:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-07-30 15:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-07-30 16:00:31 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:demon_slayer_corps": {
-    "criteria": {
-      "demon_slayer_corps_0": "2025-07-30 16:04:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sunflower_plains": "2025-07-30 16:02:12 +0000",
-      "minecraft:forest": "2025-07-30 15:41:23 +0000",
-      "minecraft:savanna": "2025-07-30 15:47:08 +0000",
-      "minecraft:plains": "2025-07-30 15:45:09 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-30 15:55:45 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:mission_no_1": {
-    "criteria": {
-      "mission_no_1_0": "2025-07-30 16:03:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "porkchop": "2025-07-30 16:01:37 +0000"
-    },
-    "done": false
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2025-07-30 15:41:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-07-30 15:56:21 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:mizunoe": {
-    "criteria": {
-      "mizunoe_0": "2025-07-30 16:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-07-30 16:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-30 15:55:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-07-30 15:55:49 +0000"
     },
     "done": true
   },
@@ -326,15 +122,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-30 15:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-30 15:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-30 15:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-30 15:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-30 16:00:28 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "bred": "2025-07-30 16:01:25 +0000"
+      "has_beef": "2025-07-30 16:00:28 +0000"
     },
     "done": true
   },
@@ -344,9 +200,161 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:cruel": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "cruel_0": "2025-07-30 15:41:22 +0000"
+      "has_porkchop": "2025-07-30 16:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-30 16:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-30 16:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-30 16:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-07-30 16:01:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-30 16:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-07-30 16:16:09 +0000",
+      "porkchop": "2025-07-30 16:01:37 +0000",
+      "mutton": "2025-07-30 16:16:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-30 16:02:41 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mission_no_1": {
+    "criteria": {
+      "mission_no_1_0": "2025-07-30 16:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-30 16:04:31 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoto": {
+    "criteria": {
+      "mizunoto_0": "2025-07-30 16:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-30 16:04:31 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer_corps": {
+    "criteria": {
+      "demon_slayer_corps_0": "2025-07-30 16:04:31 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoe": {
+    "criteria": {
+      "mizunoe_0": "2025-07-30 16:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-30 16:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-30 16:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-30 16:06:35 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kanoto": {
+    "criteria": {
+      "kanoto_0": "2025-07-30 16:07:45 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kanoe": {
+    "criteria": {
+      "kanoe_0": "2025-07-30 16:12:50 +0000"
     },
     "done": true
   },
