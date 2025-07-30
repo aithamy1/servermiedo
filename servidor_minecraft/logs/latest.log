@@ -4341,3 +4341,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 17:03:42.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
 [30Jul2025 17:04:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Creative Mode]
 [30Jul2025 17:05:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[30Jul2025 17:05:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Survival Mode]
+[30Jul2025 17:05:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
+[30Jul2025 17:05:55.217] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: java.io.IOException: Base resource not found: cgb.class
+[30Jul2025 17:05:55.217] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.Patcher.applyPatch(Patcher.java:146)
+[30Jul2025 17:05:55.217] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:291)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:260)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:171)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at LAYER SERVICE/optifine/optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[30Jul2025 17:05:55.218] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[30Jul2025 17:05:55.219] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.PotionItem.m_7203_(PotionItem.java:122)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[30Jul2025 17:05:55.220] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$237(MinecraftServer.java)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.wrapOperation$zbk000$managedBlock(MinecraftServer.java:1856)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+[30Jul2025 17:05:55.221] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+[30Jul2025 17:05:55.222] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[30Jul2025 17:05:55.222] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[30Jul2025 17:06:21.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 died
+[30Jul2025 17:06:24.861] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [neroo024]
+[30Jul2025 17:06:24.862] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [neroo024]
+[30Jul2025 17:06:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Teleported neroo024 to ICCCeee]
+[30Jul2025 17:06:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:06:35.060] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:06:35.061] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:06:40.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Teleported ICCCeee to neroo024]
+[30Jul2025 17:06:44.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:06:46.166] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:06:46.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:06:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 died
+[30Jul2025 17:06:47.879] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [neroo024]
+[30Jul2025 17:06:47.879] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [neroo024]
+[30Jul2025 17:06:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Teleported neroo024 to ICCCeee]
+[30Jul2025 17:06:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Creative Mode]
+[30Jul2025 17:07:14.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[30Jul2025 17:07:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Teleported ICCCeee to neroo024]
+[30Jul2025 17:07:49.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
+[30Jul2025 17:08:38.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11125, l='ServerLevel[world]', x=641.69, y=112.00, z=-408.30] died, message: 'Farmer died'
+[30Jul2025 17:08:39.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/11551, l='ServerLevel[world]', x=644.57, y=111.00, z=-408.01] died, message: 'Cleric died'
+[30Jul2025 17:08:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Survival Mode]
+[30Jul2025 17:09:01.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10969, l='ServerLevel[world]', x=562.20, y=75.56, z=-399.90] died, message: 'Unemployed died'
+[30Jul2025 17:09:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:09:03.733] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:09:03.733] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:09:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 died
+[30Jul2025 17:09:19.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [neroo024]
+[30Jul2025 17:09:19.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [neroo024]
+[30Jul2025 17:09:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Creative Mode]
+[30Jul2025 17:09:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[30Jul2025 17:09:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Survival Mode]
+[30Jul2025 17:10:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neroo024 died
+[30Jul2025 17:10:53.105] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [neroo024]
+[30Jul2025 17:10:53.105] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [neroo024]
+[30Jul2025 17:11:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [neroo024: Set own game mode to Creative Mode]
+[30Jul2025 17:11:43.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has reached the goal [Tsuchinoe]
+[30Jul2025 17:12:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Survival Mode]
+[30Jul2025 17:12:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee has made the advancement [Demon]
+[30Jul2025 17:12:21.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:12:28.427] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:12:28.427] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:12:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:12:37.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11128, l='ServerLevel[world]', x=569.50, y=73.00, z=-410.50] died, message: 'Unemployed died'
+[30Jul2025 17:12:37.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10993, l='ServerLevel[world]', x=580.50, y=79.00, z=-398.50] died, message: 'Unemployed died'
+[30Jul2025 17:12:37.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10942, l='ServerLevel[world]', x=561.50, y=61.00, z=-412.30] died, message: 'Unemployed died'
+[30Jul2025 17:12:37.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10917, l='ServerLevel[world]', x=561.50, y=61.00, z=-412.97] died, message: 'Unemployed died'
+[30Jul2025 17:12:37.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/10992, l='ServerLevel[world]', x=584.50, y=88.00, z=-410.50] died, message: 'Cleric died'
+[30Jul2025 17:12:37.707] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Jul2025 17:12:37.707] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[30Jul2025 17:12:37.707] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[30Jul2025 17:12:37.707] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[30Jul2025 17:12:37.708] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[30Jul2025 17:12:40.506] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:12:40.507] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:12:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:12:55.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:12:55.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:13:33.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10966, l='ServerLevel[world]', x=555.67, y=75.00, z=-400.78] died, message: 'Unemployed died'
+[30Jul2025 17:13:35.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ICCCeee died
+[30Jul2025 17:13:36.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ICCCeee]
+[30Jul2025 17:13:36.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ICCCeee]
+[30Jul2025 17:14:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ICCCeee: Set own game mode to Creative Mode]
